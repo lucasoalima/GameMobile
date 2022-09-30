@@ -1,4 +1,4 @@
-package com.example.to-do-game;
+package com.example.toDoGame;
 
 public class Modelclass {
     String color;
